@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "antd": "^3.23.2",
-    "axios": "^0.17.0",
+    "axios": "^0.18.1",
     "es6-promise": "^4.2.8",
     "node-sass": "^4.5.3",
     "qs": "^6.5.1",
