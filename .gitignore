@@ -26,4 +26,5 @@ package/cjs
 package/esm
 package/node_modules/
 test-project/node_modules/
+old-babel/node_modules/
 

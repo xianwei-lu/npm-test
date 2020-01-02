@@ -3,6 +3,7 @@ import Promise from	'es6-promise'
 class Test {
 	private id: any
 	constructor(id: number) {
+		debugger
 		this.id = id
 	}
 
